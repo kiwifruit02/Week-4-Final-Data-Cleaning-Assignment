@@ -12,5 +12,9 @@ The assignment is to create an R script called run_analysis.R that does the foll
 The Files included are:
 
 README.md (This file)
+
 run_analysis.R (The R script that actually runs the analysis.)
+
 CodeBook.md (Describes the variables and the data.)
+
+tidydata.txt (The second tidy data set with the average of each variable for each activity and each subject.)
