@@ -1,4 +1,5 @@
-Getting and Cleaning Data Final Assignment:
+Getting and Cleaning Data Final Assignment
+By: Keely McCarthy
 
 The assignment is to create an R script called run_analysis.R that does the following:
 
