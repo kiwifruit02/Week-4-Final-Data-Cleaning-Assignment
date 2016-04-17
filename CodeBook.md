@@ -1,10 +1,13 @@
  CODE BOOK for FINAL PROJECT
  
 IDENTIFIERS
+
 "subject", Factor, The ID of the test subject.
+
 "activity", Factor, The type of activity performed when measurements were taken
 
 MEASUREMENTS (all numeric)
+
  [1] "timeBodyAccelerometer-mean()-X"   
  [2] "timeBodyAccelerometer-mean()-Y"                
  [3] "timeBodyAccelerometer-mean()-Z"                
